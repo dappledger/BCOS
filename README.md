@@ -28,4 +28,4 @@ BCOS的开源协议为GPL3.0，详情参见[LICENSE](https://github.com/dappledg
 
 群管理员微信二维码：
 
-![](./doc/BCOS_FANS.jpeg)
+![](https://github.com/bcosorg/bcos/blob/master/doc/BCOS_FANS.jpeg)
